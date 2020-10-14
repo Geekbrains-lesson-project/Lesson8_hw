@@ -9,7 +9,6 @@ public class Calculator {
     private JFrame mainFrame;
     public Calculator() {
         mainFrame = new JFrame();
-
         mainFrame.setTitle("Calculator");
         mainFrame.setBounds(100, 100, 300, 500);
         mainFrame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
